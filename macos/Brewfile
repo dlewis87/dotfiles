@@ -28,10 +28,12 @@ brew 'fzf'
 brew 'yarn'
 brew 'nmap'
 brew 'diff-so-fancy'
+brew 'node'
 
-## Elixir
-
-brew 'elixir'
+## Work
+brew 'crowdin'
+brew 'emp'
+brew 'telepresence'
 
 ## Applications
 
@@ -50,6 +52,13 @@ cask 'the-unarchiver'
 cask 'keybase'
 cask 'numi'
 cask 'visual-studio-code'
+cask 'postman'
+cask 'mongodb-compass'
+cask 'whatsapp'
+cask 'zeplin'
+cask 'notion'
+cask 'zoomus'
+cask 'mysqlworkbench'
 
 ## Fonts
 
