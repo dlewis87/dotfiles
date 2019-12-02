@@ -33,7 +33,8 @@ brew 'node'
 ## Work
 brew 'crowdin'
 brew 'emp'
-brew 'telepresence'
+brew 'datawire/blackbird/telepresence'
+cask 'osxfuse'
 
 ## Applications
 
