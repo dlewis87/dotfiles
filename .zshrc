@@ -6,10 +6,6 @@ if [[ ! -d ~/.zplug ]]; then
   curl -sL https://raw.githubusercontent.com/zplug/installer/master/installer.zsh | zsh
 fi
 
-if [[ ! -d ~/.SpaceVim ]]; then
-  curl -sLf https://spacevim.org/install.sh | bash
-fi
-
 source $ZPLUG_HOME/init.zsh
 
 zplug "lib/compfix", from:oh-my-zsh, defer:0
