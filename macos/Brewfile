@@ -29,12 +29,13 @@ brew 'yarn'
 brew 'nmap'
 brew 'diff-so-fancy'
 brew 'node'
+brew 'nvm'
 
 ## Work
-brew 'crowdin'
-brew 'emp'
-cask 'osxfuse'
-brew 'datawire/blackbird/telepresence'
+## brew 'crowdin'
+## brew 'emp'
+##cask 'osxfuse'
+## brew 'datawire/blackbird/telepresence'
 
 ## Applications
 
@@ -46,19 +47,13 @@ cask 'iterm2'
 cask 'jetbrains-toolbox'
 cask 'spotify'
 cask 'spotify-notifications'
-cask 'lastpass'
 cask 'teamviewer'
 cask 'docker'
-cask 'the-unarchiver'
-cask 'keybase'
-cask 'numi'
 cask 'visual-studio-code'
 cask 'postman'
 cask 'mongodb-compass'
 cask 'whatsapp'
-cask 'zeplin'
 cask 'notion'
-cask 'zoomus'
 cask 'mysqlworkbench'
 
 ## Fonts
