@@ -2,6 +2,7 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/services'
 tap 'jhawthorn/fzy'
+
 ## CLI
 
 brew 'git'
@@ -19,6 +20,10 @@ brew 'fzf'
 brew 'nmap'
 brew 'diff-so-fancy'
 brew 'nvm'
+brew 'postgresql'
+brew 'redis'
+brew 'wget'
+brew 'rabbitmq'
 
 ## Work
 
@@ -35,6 +40,11 @@ cask 'docker'
 cask 'visual-studio-code'
 cask 'postman'
 cask 'notion'
+cask 'flameshot'
+cask 'pastebot'
+cask 'authy'
+cask 'postico'
+cask 'redisinsight'
 
 ## Fonts
 
