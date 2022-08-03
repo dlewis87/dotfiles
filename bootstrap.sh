@@ -17,11 +17,8 @@ fi
 
 fancy_echo 'Installing yadm'
 
-brew install yadm
-
 fancy_echo 'Cloning repo'
 yadm clone git@github.com:silverwedding/dotfiles.git
-yadm submodule update --init --recursive
 
 touch ~/.zshrc.local
 
